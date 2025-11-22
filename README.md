@@ -3,7 +3,7 @@
 Project Overview
 This repository contains the following key files and folders:
 
-1. Data File: This folder contains the raw data used in the project.
+1. Data File: This contains the raw data used in the project.
    
 2. Superstore Sales Dashboard (PBIX): Download this file to access the Power BI dashboard.
    
